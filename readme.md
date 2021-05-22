@@ -1,29 +1,27 @@
-# Proyecto_Visualizacion
+# Pokémon: gotta catch'em all!!
 
-El proyecto consiste en crear un informe basado en el ETL de la semana pasada. Puede ser en Python, Tableau o PowerBI.
+Hello again! Following last week's project, let's analyse our Pokémon data set and do some statistics analysis. For that, we'll calculate some stats, and support our conclusion with some data visualization.
 
-**Necesario:**
+**We'll explore:**
 
-+ Portada + 3-5 páginas
++ Strongests Pokémon: clustering
 
-+ Archivo de texto con el storytellling
++ Type distribution
 
-
-**Completar:**
-
-+ Pregunta:
-
-+ Intro:
-
-+ Nudo:
-
-+ Desenlace:
++ Catch rate
 
 
+**Summary:**
 
+In this brief study, we've segmented our Pokémons based on the sum of their different statistics:
 
-**Entregables:**
+- hp
+- attack
+- defense
+- sp_atk
+- sp_def
+- speed
 
-Si se usa Python el entregable puede ser un jupyter notebook, si se usa Tableau el entregable consiste en la url de la historia, si se usa PowerBI el entregable puede ser un PowePoint. Es necesario entregar un archivo de texto con el storytelling escrito.
+Then, we've identified Mewtwo as (by far) the strongest Pokémon of all. Therefore, we've isolated him from the remaining one. Afterwards, we've proceeded with a preliminar clusterization based on the values of the quartiles, using an empirical rule of the distance of interquartiles.
 
-
+Identifying a subset of 70% of the 150 Pokémon, we've normalised the data in order to apply the segment the population, and thus, clusterise this subset. Finally, we've added this clusterization to the whole dataset and observed the distribution of this classification over the type_1 and catch rate.
