@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/82451770/119153551-a4818100-ba51-11eb-8c5b-317abaa2beca.png)
 
-**+ Pregunta:**
+**Pregunta:**
 +  ANALYSIS OF A NUTRITIONIST CONSULTANT & INSIGHTS
 
-**+ Intro:**
+**Intro:**
 + Analysis of the client base composition of the firm, to see which kind of clients we are analysing.
 + Key takeways:
       + Most of the client porfolio is based in Pakistan and Canada.
@@ -11,13 +11,13 @@
       + Half of the portfolio of clients ocupation are  employees or work in corporates (25%) and entrepreneurs, business owners or self-employed (23%)
       + Nearly half of the client portfolio age range is 26-35
 
-**+ Nudo:**
+**Nudo:**
 + BMI and goals of our clients
       + Analyzed which is the average BMI of the total client portfolio (normal weight) and which are their goals in order to see which is the client strategy the nutritionist should follow. 
 + Which are the struggles our clients face?
       + Analyzed the realtionship between the medical history of the clients and the struggles they are facing related to health. This give us insights about which treatments are clients more likely to intake.      
 
-**+ Desenlace:**
+**Desenlace:**
 + Client engagement
       + After analyzing the characteristics of the client base and the struggles they face, I have analyzed the client engagement with the consultancy.
       + Duration of treatments seem to be +1 year, followed by a 6 months engagement. 
