@@ -4,9 +4,9 @@
 
 En este trabajo analizamos la relación de la desigualdad con el índice de paz global (GPI) y la tasa de suicidios entre paises.
 
-Comenzaremos mostrando la situación acyual en materia de desigualdad y niveles de paz, para posteriormente hacer un analises de correlaciones que responda a nuestra pregunta.
+Comenzaremos mostrando la situación actual en materia de desigualdad y niveles de paz, para posteriormente hacer un análisis de correlaciones que responda a nuestra pregunta.
 
-Podemos visualizar el proyecto en esste enlace:
+Podemos visualizar el proyecto en este enlace:
 
 <https://app.powerbi.com/links/GiicGAtVtb?ctid=fc6602ef-8e88-4f1d-a206-e14a3bc19af2&pbi_source=linkShare>
 
@@ -24,4 +24,4 @@ Podemos visualizar el proyecto en esste enlace:
 
 **Notas:**
 
-Al solo haber una variable cuantitativa, el margen de juego con los datos se ve afectado a la hora de claseificar
+Al solo haber una variable cuantitativa, el margen de juego con los datos se ve afectado a la hora de clasificar en las visualizaciones
