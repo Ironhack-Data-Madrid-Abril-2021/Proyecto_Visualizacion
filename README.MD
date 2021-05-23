@@ -5,7 +5,7 @@
 
 **Intro:**
 + Analysis of the client base composition of the firm, to see which kind of clients we are analysing.
-KEY TAKEAWAYS:
++ KEY TAKEAWAYS:
 + Most of the client porfolio is based in Pakistan and Canada.
 + 70% of the clients are females
 + Half of the portfolio of clients ocupation are  employees or work in corporates (25%) and entrepreneurs, business owners or self-employed (23%)
