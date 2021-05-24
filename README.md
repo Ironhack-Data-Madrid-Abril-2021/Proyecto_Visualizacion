@@ -20,6 +20,8 @@ Podemos visualizar el proyecto en este enlace:
 
 +Uso de marcadores para suponer gráficas de mapas controlados por botones
 
++Creacion de la variable unitaria correlación mediante uso de fórmulas
+
 +Selector por paises
 
 **Notas:**
