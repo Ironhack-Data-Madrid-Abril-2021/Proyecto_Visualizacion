@@ -10,9 +10,9 @@ Intro:
 
 Tras haber creado, previamente, un dataframe que recoge datos de todos los jugadores de la liga española. El objetivo principal de este proyecto, consiste en hallar el once más ofensivo posible con jugadores de nacionalidad española de la temporada 20/21. La información de mi dataframe recoge lo siguiente:
 
-⋅⋅* Hola
+⋅⋅* Hola.
 
-⋅⋅* Que tal
+⋅⋅* Que tal.
 
 Nudo:
 
