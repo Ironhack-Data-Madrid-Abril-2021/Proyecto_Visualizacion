@@ -2,11 +2,8 @@
 
 El proyecto consiste en crear un informe basado en el ETL de la semana pasada. Puede ser en Python, Tableau o PowerBI.
 
-**Necesario:**
+![alt text](https://brandemia.org/sites/default/files/portada-rfef-imagenes-brandemia-blog_2.jpg)
 
-+ Portada + 3-5 páginas
-
-+ Archivo de texto con el storytellling
 
 
 **Completar:**
