@@ -12,17 +12,17 @@ Podemos visualizar el proyecto en este enlace:
 
 **Herramientas:**
 
-+Visualización por mapas
++ Visualización por mapas
 
-+Graficos de correlación, barras y de "donuts"
++ Graficos de correlación, barras y de "donuts"
 
-+Uso de botones que desplazan entre páginas
++ Uso de botones que desplazan entre páginas
 
-+Uso de marcadores para suponer gráficas de mapas controlados por botones
++ Uso de marcadores para suponer gráficas de mapas controlados por botones
 
-+Creacion de la variable unitaria correlación mediante uso de fórmulas
++ Creacion de la variable unitaria correlación mediante uso de fórmulas
 
-+Selector por paises
++ Selector por paises
 
 **Notas:**
 
