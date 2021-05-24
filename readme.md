@@ -1,26 +1,22 @@
 # Proyecto_Visualizacion
 
-El proyecto consiste en crear un informe basado en el ETL de la semana pasada. Puede ser en Python, Tableau o PowerBI.
+El proyecto consiste en crear un informe basado en un ETL, previamente realizado.
 
 ![alt text](https://brandemia.org/sites/default/files/portada-rfef-imagenes-brandemia-blog_2.jpg)
 
+**¿Cuál sería el once más ofensivo de La Liga Española de Fútbol?**
 
+Intro:
 
-**Completar:**
+Tras haber creado, previamente, un dataframe que recoge datos de todos los jugadores de la liga española. El objetivo principal de este proyecto, consiste en hallar el once más ofensivo posible con jugadores de nacionalidad española de la temporada 20/21. La información de mi dataframe recoge lo siguiente:
 
-+ Pregunta:
+⋅⋅* Hola
 
-+ Intro:
+⋅⋅* Que tal
 
-+ Nudo:
+Nudo:
 
-+ Desenlace:
+Desenlace:
 
-
-
-
-**Entregables:**
-
-Si se usa Python el entregable puede ser un jupyter notebook, si se usa Tableau el entregable consiste en la url de la historia, si se usa PowerBI el entregable puede ser un PowePoint. Es necesario entregar un archivo de texto con el storytelling escrito.
-
+**Librerías utilizadas**
 
