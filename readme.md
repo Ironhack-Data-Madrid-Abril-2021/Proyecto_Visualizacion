@@ -1,29 +1,50 @@
 # Proyecto_Visualizacion
 
-El proyecto consiste en crear un informe basado en el ETL de la semana pasada. Puede ser en Python, Tableau o PowerBI.
+El proyecto consiste en crear un informe basado en un ETL, previamente realizado.
 
-**Necesario:**
+![alt text](https://brandemia.org/sites/default/files/portada-rfef-imagenes-brandemia-blog_2.jpg)
 
-+ Portada + 3-5 páginas
+**¿Cuál sería el once más ofensivo posible de La Liga Española de Fútbol?**
 
-+ Archivo de texto con el storytellling
+Intro:
 
+Tras haber creado, previamente, un dataframe que recoge datos de todos los jugadores de la liga española. El objetivo principal de este proyecto, consiste en hallar el once más ofensivo posible con jugadores de nacionalidad española de la temporada 20/21. La información de mi dataframe recoge lo siguiente:
 
-**Completar:**
++ Nombre
++ Edad
++ Equipo
++ Posición
++ Dorsal
++ Altura
++ Peso
++ Goles totales
++ Asistencias totales
++ Faltas cometidas
++ Faltas recibidas
++ Amarillas
++ Rojas
++ Ratios por partido
 
-+ Pregunta:
+Nudo:
 
-+ Intro:
+El informe recoge diferentes diapositivas:
 
-+ Nudo:
++ Resumen de La Liga Española en función de la nacionalidad, goles/asistencias de los equipos españoles, tarjetas rojas/amarillas de los equipos españoles.
++ Selección de la posición de delantero.
++ Selección de la posición de medio.
++ Selección de la posición de defensa.
++ Once ideal.
 
-+ Desenlace:
+Desenlace
 
+Como resultado obtenemos el siguiente once:
 
+![image](https://user-images.githubusercontent.com/82878805/119361571-19e88e00-bcac-11eb-868e-118fb0dc758f.png)
 
+**Librerías utilizadas**
 
-**Entregables:**
-
-Si se usa Python el entregable puede ser un jupyter notebook, si se usa Tableau el entregable consiste en la url de la historia, si se usa PowerBI el entregable puede ser un PowePoint. Es necesario entregar un archivo de texto con el storytelling escrito.
-
-
++ Pandas
++ Numpy
++ Selenium 
++ Time
++ Re
